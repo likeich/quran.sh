@@ -1,5 +1,5 @@
 # Dependencies
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 
 # Permalinks
@@ -17,9 +17,14 @@ author:
   url: https://twitter.com/mdo
 
 paginate: 5
+paginate_path: "/page:num/" # Pagination URLs
+
+# Plugins (include pagination)
+plugins:
+  - jekyll-paginate
 
 # Custom vars
-version: 2.1.0
+version: 0.1
 
 github:
-  repo: https://github.com/poole/hyde
+  repo: https://github.com/likeich/quran.sh
