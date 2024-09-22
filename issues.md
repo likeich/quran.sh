@@ -6,6 +6,8 @@ priority: 2
 
 {% include article_list.html collection="issues" %}
 
+---
+
 ## Why do issues in the Quran matter?
 
 Given the Quran’s claim of divine authorship, infallibility, and perfect preservation, any error—whether factual, historical, or linguistic—is catastrophic to its credibility. The Quran challenges readers to reflect on the text to find contradictions, explicitly stating that if any are found, it would disprove the Quran's divine origin.
@@ -20,6 +22,8 @@ The Quran is built upon the premise that it is flawless. As seen in Surah 4:82, 
 - If scientific inaccuracies or historical errors are identified, they would challenge the Quran's claim of being free from error.
 
 Thus, the claim is that the Quran must be wholly accurate and preserved, or it cannot be regarded as the infallible word of God.
+
+{% include yt-video.html src="https://www.youtube.com/embed/9n6-CrsZbfo?si=tSSgJinAq2Kkkkms" %}
 
 ### Conclusion
 
