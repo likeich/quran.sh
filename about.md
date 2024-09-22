@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-priority: 3
+priority: 10
 ---
 
 <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
