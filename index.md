@@ -15,6 +15,7 @@ Muslims assert that the Quran is:
 
 Quran.sh was created to explore these claims and others made about the Quran and to see if they hold up to scrutiny.
 
+[Why do issues in the Quran matter?]({{ site.baseurl }}/issues)
 ## Issues in the Quran
 
 <ul>
