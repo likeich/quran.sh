@@ -9,8 +9,8 @@ permalink: pretty
 title: Quran.sh
 tagline: "A Jekyll theme"
 description: ""
-url: "https://likeich.github.io"
-baseurl: "/quran.sh/"
+url: "quran.sh"
+baseurl: ""
 
 author:
   name: "Mark Otto"

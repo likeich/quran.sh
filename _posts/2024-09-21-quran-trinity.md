@@ -4,15 +4,22 @@ title: "Misunderstanding the Trinity"
 categories: quran-issues
 ---
 
+## Key Points
+
+1. The Quran describes the Trinity as Allah, Jesus, and Mary, which is not the Christian belief.
+2. The Trinity is the essential doctrine of Christianity, and the Quran's misrepresentation of it is a significant error.
+3. The Quran does not, in a single example, describe the Christian doctrine of the Trinity correctly as Father, Son, and Holy Spirit.
+4. The author of the Quran was not familiar with orthodox Christian beliefs and misunderstood the Trinity.
+
 ## Introduction
 
 The Trinity is an essential and universal Christian doctrine which posits that God consists of three persons, the Father, the Son (Jesus), and the Holy Spirit, who are distinct yet co-equal and co-eternal. The Trinity is formalized as early as the Council of Nicaea in AD 325, 200 years prior to the life of Muhammed. The Quran describes the Trinity multiple times as the belief that Allah, Jesus, and Mary are Gods. This is an inaccurate description of the Christian belief of the Trinity.
 
 ## The Argument
 
-1. **Premise 1**: [The Quran is said to be the eternal, perfect word of God, who is all-knowing.]({{ site.baseurl }}/issues)
-2. **Premise 2**: The Quran misrepresents and mistunderstands the Christian Doctrine of the Trinity.
-3. **Conclusion**: The Quran is not the eternal, perfect word of God.
+1. **Premise 1**: If a text is the [eternal, perfect word of God]({{ site.baseurl }}/issues), it cannot contain misrepresentations or falsehood.
+2. **Premise 2**: The Quran contains misrepresentations or falsehoods of the Christian Doctrine of the Trinity.
+3. **Conclusion**: Therefore, the Quran is not the eternal, perfect word of God.
 
 ## Background
 
