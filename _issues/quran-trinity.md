@@ -54,7 +54,7 @@ Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-t
 
 ---
 
-*Further Research:*
+*Related Links:*
 
 - [Allah Makes Another Mistake (The Trinity)](https://www.youtube.com/watch?v=e1yBMFWmVHQ)
 - [CARM - Did the author of the Quran understand the Trinity?](https://carm.org/islam/did-the-author-of-the-quran-understand-the-trinity/)
