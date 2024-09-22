@@ -24,6 +24,8 @@ In these ayah, the Quran is describing the Trinity as Allah, Jesus, and Mary. Ch
 
 {% include verse.html surah="5" ayah="72-75" %}
 
+The Trinity is THE essential doctrine of Christianity and makes it distinct from any other religion. It is important to note that the ayah above are the ONLY ones in the Quran that mention the Trinity whatsoever. The Quran does not, in a single example, describe the Christian doctrine of the Trinity correctly as Father, Son, and Holy Spirit.
+
 ## How Muslims Respond + Counterarguments
 
 1. *The ayah was meant for a group that DID worship Mary in Arabia*
@@ -37,6 +39,7 @@ In these ayah, the Quran is describing the Trinity as Allah, Jesus, and Mary. Ch
 
 ---
 
-*For further reading:*
+*Further Research:*
 
+- [Allah Makes Another Mistake (The Trinity)](https://www.youtube.com/watch?v=e1yBMFWmVHQ)
 - [CARM - Did the author of the Quran understand the Trinity?](https://carm.org/islam/did-the-author-of-the-quran-understand-the-trinity/)
