@@ -18,10 +18,4 @@ Quran.sh was created to explore these claims and others made about the Quran and
 [Why do issues in the Quran matter?]({{ site.baseurl }}/issues)
 ## Issues in the Quran
 
-<ul>
-  {% for post in site.categories.quran-issues %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% include article_list.html collection="issues" %}

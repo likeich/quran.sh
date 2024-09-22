@@ -21,3 +21,9 @@ version: 0.1
 
 github:
   repo: https://github.com/likeich/quran.sh
+
+collections:
+  issues:
+    output: true
+  science:
+    output: true

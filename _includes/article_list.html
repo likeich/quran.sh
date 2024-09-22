@@ -1,0 +1,7 @@
+<ul>
+    {% for article in site[include.collection] %}
+    <li>
+        <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

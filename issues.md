@@ -4,6 +4,10 @@ title: Issues in the Quran
 priority: 2
 ---
 
+{% include article_list.html collection="issues" %}
+
+## Why do issues in the Quran matter?
+
 Given the Quran’s claim of divine authorship, infallibility, and perfect preservation, any error—whether factual, historical, or linguistic—is catastrophic to its credibility. The Quran challenges readers to reflect on the text to find contradictions, explicitly stating that if any are found, it would disprove the Quran's divine origin.
 
 {% include verse.html surah="4" ayah="82" %}
@@ -17,6 +21,6 @@ The Quran is built upon the premise that it is flawless. As seen in Surah 4:82, 
 
 Thus, the claim is that the Quran must be wholly accurate and preserved, or it cannot be regarded as the infallible word of God.
 
-## Conclusion
+### Conclusion
 
 The Quran makes extraordinary claims about its divine origin, preservation, and infallibility. Any mistake, contradiction, or inconsistency within the text would not merely be a minor issue but would fundamentally invalidate the Quran’s status as the word of God. This leaves the text open to scrutiny, with the understanding that proving even one error would have profound theological implications.

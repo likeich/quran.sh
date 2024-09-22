@@ -1,43 +1,65 @@
 ---
 layout: post
 title: "Issue with the Quran: [Insert Specific Issue Here]"
-categories: quran issues
+categories: quran-issues
+
 ---
+
+## Key Points
+
+1. [Summarize the first key point regarding the issue.]
+2. [Mention the second key argument or observation.]
+3. [Outline the third key point relevant to the post.]
+4. [State the fourth significant insight or argument.]
+5. [Summarize the fifth important point.]
 
 ## Introduction
 
-Briefly introduce the specific issue being discussed and outline what will be covered in the post.
+[Briefly introduce the specific issue being discussed, its relevance, and what the post will cover.]
 
 ## The Argument
 
-Present the criticism or issue as a syllogism (formal logic). Break it down in a clear, accessible way:
+Present the argument in syllogistic form to highlight the issue:
 
 1. **Premise 1**: [State the first premise of the argument.]
 2. **Premise 2**: [State the second premise.]
-3. **Conclusion**: [State the conclusion the argument leads to.]
+3. **Conclusion**: [State the conclusion drawn from the premises.]
 
 ## Background
 
-Provide any necessary historical, theological, or contextual information that is important for understanding the issue. Explain the context of the Quran’s revelation, or any relevant scientific or historical details.
+[Provide important historical, theological, or scientific background information that helps understand the context of the issue. Include any relevant details about the Quran’s revelation or interpretations.]
+
+{% include verse.html surah="[Insert Surah number]" ayah="[Insert Ayah number]" %}
+
+[Analyze the verse in question and link it to the argument.]
+
+{% include verse.html surah="[Insert second Surah number]" ayah="[Insert second Ayah number]" %}
+
+[Give a detailed explanation of the second text and how it supports the argument.]
 
 ## What Muslim Scholars Say
 
-Summarize the interpretations or responses given by Muslim scholars or theologians regarding this issue. Include specific explanations or interpretations that address the criticism.
+[Summarize the interpretations or responses from Muslim scholars regarding the issue. Include any important theological perspectives or commentaries that respond to the criticism.]
 
 ## Refutation of the Argument
 
-Refute the argument by addressing the premises one by one. Explain why the argument does not hold, providing alternative interpretations or explanations, and pointing out any logical fallacies or misunderstandings.
+Refute the argument by systematically addressing the premises:
+
+1. **Premise 1**: [Refute or clarify the first premise.]
+2. **Premise 2**: [Refute or clarify the second premise.]
+3. **Conclusion**: [Show why the conclusion does not logically follow or why the argument falls short.]
 
 ## Why This Matters
 
-Explain why this issue is significant. Discuss the broader implications for understanding the Quran and Islamic theology. Explain why resolving or refuting this criticism is important for both Muslims and non-Muslims.
+[Explain the broader significance of this issue. Discuss why resolving or understanding this criticism is important for both Muslims and non-Muslims and how it impacts interpretations of the Quran.]
 
 ## Conclusion
 
-Summarize the discussion, restating the key points of the refutation, and provide a conclusion about the issue.
+[Summarize the key points, including the refutation and any conclusions drawn from the discussion.]
 
 ---
 
 *For further reading:*
 
-- [List relevant scholarly articles, books, or other posts for further exploration.]
+- [Insert relevant scholarly articles or posts for further exploration.]
+- [Link to additional research materials.]
