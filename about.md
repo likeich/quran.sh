@@ -4,6 +4,8 @@ title: About
 priority: 10
 ---
 
+[☦️ Find a church near you](https://www.google.com/maps/search/eastern+orthodox+church)
+
 <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
 
 Icons by [Icons8](https://icons8.com)

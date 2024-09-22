@@ -86,3 +86,5 @@ The author of the Quran pays lip service by affirming the prior revelation but r
 
 - [DEBATE: CHRISTIANITY OR ISLAM: WHICH IS THE RELIGION OF THE PROPHETS? JAY DYER VS DANIEL HAQIQATJOU](https://www.youtube.com/watch?v=5QqvCVN9PwI)
 - [The Temple](https://orthochristian.com/135297.html)
+- [The Sacrement of the Holy Eucharist](https://orthochristian.com/94688.html)
+- [On The Eucharist](https://orthochristian.com/158573.html)
