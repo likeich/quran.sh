@@ -31,14 +31,35 @@ The Quran claims to be the final revelation from God after the Torah and the Bib
 
 ### Major Christian/Jewish Doctrines Absent in the Quran
 
-| **Doctrine**                    | **Supporting Verses (Bible)**                          | **Significance**                                                                                             | **Reason Why Its Absence Matters**                                                                                                                                                      |
-|----------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **The Sacrifice and the Eucharist** | Matthew 26:26-28, 1 Corinthians 11:23-26            | The Eucharist commemorates Jesus’ sacrifice, seen as the central act of Christian worship and salvation.     | The absence overlooks the foundational Christian belief of Jesus’ atonement for sin and the sacramental practice that defines Christian worship across denominations.                        |
-| **Sacraments in General**        | Acts 2:38 (Baptism), John 20:23 (Confession), James 5:14 (Anointing) | Sacraments serve as outward signs of inward grace and are vital to the Christian life and salvation.         | Ignoring sacraments means disregarding essential rituals through which Christians believe they receive divine grace, such as baptism and communion, fundamental to Christian practice.      |
-| **Apostolic Succession/Priesthood**| 1 Timothy 4:14, Titus 1:5                           | Apostolic Succession ensures the continuity of the Church's authority, passed down through the bishops.       | Without mentioning or recognizing the priesthood and apostolic succession, the Quran disregards how the Church maintains doctrinal integrity and authority, which is central to its structure. |
-| **Creeds and Councils**          | Nicene Creed (based on John 1:1, Philippians 2:6-11) | Creeds define core Christian doctrines, such as the Trinity and the nature of Christ, affirmed by councils.   | The absence of any reference to these creeds or councils undermines the understanding of Christianity’s unified doctrinal foundation and historical theological development.                  |
-| **The Temple**                   | 1 Kings 8:10-11, Matthew 21:12-13                    | The Temple is central to Jewish worship and prophetic fulfillment, and in Christianity, Jesus is seen as the fulfillment of the Temple. | Not mentioning the Temple or its significance misses the crucial connection between Jewish worship, prophecy, and how Christianity interprets Jesus as fulfilling the Temple’s role.         |
-| **The Trinity**                  | Genesis 1:26, Isaiah 48:16, Matthew 28:19, John 1:1, 2 Corinthians 13:14 | The Trinity defines the Christian understanding of God as one Being in three persons: the Father, Son, and Holy Spirit. | [The Quran misrepresents](/issues/quran-trinity) the Trinity as Allah, Jesus, and Mary, misunderstanding the very nature of God. This leads to a fundamental error in its critique of Christian belief and doctrine. |
+- **The Sacrifice and the Eucharist**
+  - **Supporting Verses**: Matthew 26:26-28, 1 Corinthians 11:23-26
+  - **Significance**: The Eucharist commemorates Jesus' sacrifice, seen as the central act of Christian worship and salvation.
+  - **Reason Why Its Absence Matters**: The absence overlooks the foundational Christian belief of Jesus’ atonement for sin and the sacramental practice that defines Christian worship across denominations.
+
+- **Sacraments in General**
+  - **Supporting Verses**: Acts 2:38 (Baptism), John 20:23 (Confession), James 5:14 (Anointing)
+  - **Significance**: Sacraments serve as outward signs of inward grace and are vital to the Christian life and salvation.
+  - **Reason Why Its Absence Matters**: Ignoring sacraments means disregarding essential rituals through which Christians believe they receive divine grace, such as baptism and communion, fundamental to Christian practice.
+
+- **Apostolic Succession/Priesthood**
+  - **Supporting Verses**: 1 Timothy 4:14, Titus 1:5
+  - **Significance**: Apostolic Succession ensures the continuity of the Church's authority, passed down through the bishops.
+  - **Reason Why Its Absence Matters**: Without mentioning or recognizing the priesthood and apostolic succession, the Quran disregards how the Church maintains doctrinal integrity and authority, which is central to its structure.
+
+- **Creeds and Councils**
+  - **Supporting Verses**: Nicene Creed (based on John 1:1, Philippians 2:6-11)
+  - **Significance**: Creeds define core Christian doctrines, such as the Trinity and the nature of Christ, affirmed by councils.
+  - **Reason Why Its Absence Matters**: The absence of any reference to these creeds or councils undermines the understanding of Christianity’s unified doctrinal foundation and historical theological development.
+
+- **The Temple**
+  - **Supporting Verses**: 1 Kings 8:10-11, Matthew 21:12-13
+  - **Significance**: The Temple is central to Jewish worship and prophetic fulfillment, and in Christianity, Jesus is seen as the fulfillment of the Temple.
+  - **Reason Why Its Absence Matters**: Not mentioning the Temple or its significance misses the crucial connection between Jewish worship, prophecy, and how Christianity interprets Jesus as fulfilling the Temple’s role.
+
+- **The Trinity**
+  - **Supporting Verses**: Genesis 1:26, Isaiah 48:16, Matthew 28:19, John 1:1, 2 Corinthians 13:14
+  - **Significance**: The Trinity defines the Christian understanding of God as one Being in three persons: the Father, Son, and Holy Spirit.
+  - **Reason Why Its Absence Matters**: The Quran [misrepresents the Trinity](/issues/quran-trinity) as Allah, Jesus, and Mary, misunderstanding the very nature of God. This leads to a fundamental error in its critique of Christian belief and doctrine.
 
 These doctrines are fundamental to understanding Christianity and Judaism, yet the Quran either ignores or misrepresents them. This defeats the Quran's claim to be a continuation and confirmation of previous scriptures.
 
@@ -64,3 +85,4 @@ The author of the Quran pays lip service by affirming the prior revelation but r
 *For further reading:*
 
 - [DEBATE: CHRISTIANITY OR ISLAM: WHICH IS THE RELIGION OF THE PROPHETS? JAY DYER VS DANIEL HAQIQATJOU](https://www.youtube.com/watch?v=5QqvCVN9PwI)
+- [The Temple](https://orthochristian.com/135297.html)
