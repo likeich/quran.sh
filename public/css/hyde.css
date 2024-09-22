@@ -190,6 +190,38 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+/* Dark Background and Red Accent */
+.theme-base-dark {
+    background-color: #2a2a2a;
+}
+.theme-base-dark .sidebar {
+    background-color: #1e1e1e; /* Dark gray for the sidebar background */
+}
+.theme-base-dark .message {
+    background-color: #1e1e1e; /* Dark gray for the sidebar background */
+    border-radius: 8px;
+}
+
+.theme-base-dark .content h1,
+.theme-base-dark .content h2,
+.theme-base-dark .content h3,
+.theme-base-dark .content strong {
+    color: #ffffff;
+}
+
+.theme-base-dark .content p,
+.theme-base-dark .content li,
+.theme-base-dark .content th,
+.theme-base-dark .content dd,
+.theme-base-dark .content dt {
+    color: #e0e0e0;
+}
+
+.theme-base-dark .content a,
+.theme-base-dark .related-posts li a:hover {
+    color: #c0595a; /* Link Color */
+}
+
 /* Red */
 .theme-base-08 .sidebar {
     background-color: #ac4142;
