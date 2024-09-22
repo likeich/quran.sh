@@ -45,6 +45,13 @@ body {
     display: flex;
     justify-content: center; /* Centers horizontally */
     align-items: center; /* Centers vertically */
+    flex-direction: row;
+}
+@media (max-width: 48em) {
+    html,
+    body {
+        flex-direction: column; /* Change to column layout when width is below 48em */
+    }
 }
 
 html {
