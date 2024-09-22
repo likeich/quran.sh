@@ -4,6 +4,8 @@ title: About
 priority: 3
 ---
 
+<p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+
 ### Quran.sh is built using the Hyde Jekyll theme.
 
 >### Released under MIT License
