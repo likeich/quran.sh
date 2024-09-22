@@ -19,14 +19,16 @@
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
-        const verseKey = "{{ include.surah }}:{{ include.ayah }}";
-        const apiUrl = `https://api.quran.com/api/v4/verses/by_key/${verseKey}?language=en&words=false&translations=131`;
+        const ayah = "{{ include.ayah }}";
+        const surah = "{{ include.surah }}";
+        const verseTextElement = document.getElementById(
+            `verse-text-${surah}-${ayah}`,
+        );
 
-        console.log("Final API URL:", apiUrl);
-
-        // Delay fetching to ensure the element is fully rendered
-        setTimeout(() => {
-            fetch(apiUrl)
+        function fetchAyah(surah, ayah) {
+            return fetch(
+                `https://api.quran.com/api/v4/verses/by_key/${surah}:${ayah}?language=en&words=false&translations=131`,
+            )
                 .then((response) => response.json())
                 .then((data) => {
                     if (
@@ -34,21 +36,43 @@
                         data.verse.translations &&
                         data.verse.translations.length > 0
                     ) {
-                        document.getElementById(
-                            "verse-text-{{ include.surah }}-{{ include.ayah }}",
-                        ).innerHTML = data.verse.translations[0].text;
+                        return data.verse.translations[0].text;
                     } else {
-                        document.getElementById(
-                            "verse-text-{{ include.surah }}-{{ include.ayah }}",
-                        ).innerHTML = "Translation not found.";
+                        return `Translation not found for Ayah ${ayah}.`;
                     }
                 })
                 .catch((error) => {
-                    console.error("Error fetching the Quran verse:", error);
-                    document.getElementById(
-                        "verse-text-{{ include.surah }}-{{ include.ayah }}",
-                    ).innerHTML = "Error loading verse.";
+                    console.error(`Error fetching Ayah ${ayah}:`, error);
+                    return `Error loading Ayah ${ayah}.`;
                 });
-        }, 250); // 500ms delay
+        }
+
+        function updateVersesText(surah, ayah) {
+            // Check if ayah is a range
+            if (ayah.includes("-")) {
+                const [startAyah, endAyah] = ayah.split("-");
+                let ayahPromises = [];
+
+                // Loop through the range and fetch each Ayah
+                for (let i = parseInt(startAyah); i <= parseInt(endAyah); i++) {
+                    ayahPromises.push(fetchAyah(surah, i));
+                }
+
+                // Wait for all Ayahs to be fetched
+                Promise.all(ayahPromises).then((verses) => {
+                    verseTextElement.innerHTML = verses.join("<br><br>");
+                });
+            } else {
+                // Single Ayah case
+                fetchAyah(surah, ayah).then((verse) => {
+                    verseTextElement.innerHTML = verse;
+                });
+            }
+        }
+
+        // Start fetching the verse(s)
+        setTimeout(() => {
+            updateVersesText(surah, ayah);
+        }, 250); // 250ms delay
     });
 </script>

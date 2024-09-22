@@ -12,8 +12,7 @@ The Quran, revered by Muslims as the literal word of God, is a central text in I
 The Quran explicitly claims to be the direct revelation from God, conveyed through the Prophet Muhammad. It presents itself as divine guidance for all of humanity, meant to be followed in every aspect of life.
 
 {% include verse.html surah="6" ayah="19" %}
-{% include verse.html surah="53" ayah="4" %}
-{% include verse.html surah="53" ayah="5" %}
+{% include verse.html surah="53" ayah="4-5" %}
 
 ### Perfect Preservation
 

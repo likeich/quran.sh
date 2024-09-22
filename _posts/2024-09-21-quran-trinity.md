@@ -18,12 +18,7 @@ The Trinity is an essential and universal Christian doctrine which posits that G
 
 Surah 5:116-118 describes a conversation between Allah and Jesus (who is considered a prophet in Islam).
 
-{% include verse.html surah="5" ayah="116" %}
-
-{% include verse.html surah="5" ayah="117" %}
-
-{% include verse.html surah="5" ayah="118" %}
-
+{% include verse.html surah="5" ayah="116-118" %}
 
 ## How Muslims Respond
 
