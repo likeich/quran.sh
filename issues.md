@@ -49,14 +49,6 @@ The Quran is built upon the premise that it is flawless. As seen in **Surah 4:82
 
 Thus, the claim is that the Quran must be wholly accurate and preserved, or it cannot be regarded as the infallible word of God.
 
-<ul>
-  {% for post in site.categories.quran-issues %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 ## Conclusion
 
 The Quran makes extraordinary claims about its divine origin, preservation, and infallibility. Any mistake, contradiction, or inconsistency within the text would not merely be a minor issue but would fundamentally invalidate the Quran’s status as the word of God. This leaves the text open to scrutiny, with the understanding that proving even one error would have profound theological implications.

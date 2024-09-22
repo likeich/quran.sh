@@ -6,7 +6,7 @@ categories: quran-issues
 
 ## Introduction
 
-The Trinity is an essential and universal Christian doctrine which posits that God consists of three persons, the Father, the Son (Jesus), and the Holy Spirit, who are distinct yet co-equal and co-eternal. The Trinity is formalized as early as the Council of Nicaea in AD 325, 200 years prior to the life of Muhammed. The Quran describes the Trinity multiple times as the belief that Allah, Jesus, and Mary are Gods. This is an inaccurate description of the Christian belief of the Trinity. The Quran cannot be a direct revelation from God since it contains error.
+The Trinity is an essential and universal Christian doctrine which posits that God consists of three persons, the Father, the Son (Jesus), and the Holy Spirit, who are distinct yet co-equal and co-eternal. The Trinity is formalized as early as the Council of Nicaea in AD 325, 200 years prior to the life of Muhammed. The Quran describes the Trinity multiple times as the belief that Allah, Jesus, and Mary are Gods. This is an inaccurate description of the Christian belief of the Trinity.
 
 ## The Argument
 
@@ -25,7 +25,7 @@ Surah 5:116-118 describes a conversation between Allah and Jesus (who is conside
 {% include verse.html surah="5" ayah="118" %}
 
 
-## What Muslim Scholars Say
+## How Muslims Respond
 
 Summarize the interpretations or responses given by Muslim scholars or theologians regarding this issue. Include specific explanations or interpretations that address the criticism.
 
