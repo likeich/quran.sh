@@ -10,6 +10,7 @@ categories: quran-issues
 2. The Trinity is the essential doctrine of Christianity, and the Quran's misrepresentation of it is a significant error.
 3. The Quran does not, in a single example, describe the Christian doctrine of the Trinity correctly as Father, Son, and Holy Spirit.
 4. The author of the Quran was not familiar with orthodox Christian beliefs and misunderstood the Trinity.
+5. Early commentaries on the Quran interpret these ayah as describing the Trinity as Allah, Jesus, and Mary.
 
 ## Introduction
 
@@ -33,12 +34,19 @@ In these ayah, the Quran is describing the Trinity as Allah, Jesus, and Mary. Ch
 
 The Trinity is THE essential doctrine of Christianity and makes it distinct from any other religion. It is important to note that the ayah above are the ONLY ones in the Quran that mention the Trinity whatsoever. The Quran does not, in a single example, describe the Christian doctrine of the Trinity correctly as Father, Son, and Holy Spirit.
 
+The author the Quran *again* in Surah 4:171 describes the Trinity as Allah, Jesus, and Mary:
+
+{% include verse.html surah="4" ayah="171" %}
+
+Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-the-quran-understand-the-trinity/) on these passages from Ibn Ishaq, Muqātil ibn Sulaymān, and other all interpret these ayah as describing the Trinity as Allah, Jesus, and Mary.
+
 ## How Muslims Respond + Counterarguments
 
 1. *The ayah was meant for a group that DID worship Mary in Arabia*
     - A [small group of Christians](https://en.wikipedia.org/wiki/Collyridianism) in Arabia may have worshipped Mary as a goddess, although their existence is debated. Their existence is irrelevant to refute this point, as the context of Surah 5:116 is a conversation at judgement day. There is no reason for Allah and Jesus to have a conversation on judgement day about a tiny, fringe group of heretical Christians that have not existed for over a millenia.
 2. *These verses do not describe the Trinity*
     - Muslims will cast doubt on the ayah, saying that it does not describe the Trinity, and instead condemns idolatry. Surah 5:72-75 further strengthens the argument that the Quran is describing the Trinity as Allah, Jesus, and Mary by reiterating the claims of divinity. Surah 5:75 specifically refutes the belief that Jesus and Mary are Gods, saying that Mary was a 'woman of truth' and that both Jesus and Mary ate food. Surah 5:73 just before specifically refers to the Trinity, before going on to refute that Jesus and Mary are Gods. Surah 5, in multiple ayah, describes the Trinity as Allah, Jesus, and Mary while specifically refuting that Jesus and Mary are not Gods.
+    - As stated before, early commentaries on the Quran interpret these ayah as describing the Trinity as Allah, Jesus, and Mary. Only modern Muslims reinterpret these ayah to mean anything else.
 
 ## Why This Matters
 
