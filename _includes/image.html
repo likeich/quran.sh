@@ -1,0 +1,8 @@
+<img
+    class="shadow-style"
+    src="{{ include.src }}"
+    alt="{{ include.title }}"
+    title="{{ include.title }}"
+    referrerpolicy="strict-origin-when-cross-origin"
+    style="width: {% if include.width %}{{ include.width }}{% else %}100%{% endif %}; height: {% if include.height %}{{ include.height }}{% else %}auto{% endif %};"
+/>

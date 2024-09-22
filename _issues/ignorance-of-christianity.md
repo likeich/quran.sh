@@ -63,6 +63,9 @@ The Quran claims to be the final revelation from God after the Torah and the Bib
 
 These doctrines are fundamental to understanding Christianity and Judaism, yet the Quran either ignores or misrepresents them. This defeats the Quran's claim to be a continuation and confirmation of previous scriptures.
 
+{% include image.html src="/public/continuity.png" title="Continuity from the Old to New Testament" %}
+*[Image Source](https://www.youtube.com/watch?v=jkmh68urI6A)*
+
 ### How the New Testament Builds on the Old Testament
 
 To highlight the discontinuity between the Quran and the Bible, consider how the New Testament (Christian Scripure) affirms and builds on the Old Testament (Jewish Scripture):
@@ -85,6 +88,8 @@ The author of the Quran pays lip service by affirming the prior revelation but r
 *Related Links:*
 
 {% include yt-video.html src="https://www.youtube.com/embed/5QqvCVN9PwI?si=iEOt5AE0_gO6eS1c" %}
+
+{% include yt-video.html src="https://www.youtube.com/embed/jkmh68urI6A?si=d9Y893EvkJt1SvWT" %}
 
 - [The Temple](https://orthochristian.com/135297.html)
 - [The Sacrement of the Holy Eucharist](https://orthochristian.com/94688.html)
