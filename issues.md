@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mistakes in the Quran
+title: Issues in the Quran
 ---
 
 The Quran, revered by Muslims as the literal word of God, is a central text in Islam. The Quran itself makes several claims about its origin, preservation, and infallibility. Understanding these claims is essential to analyzing the implications of any errors or inconsistencies within the text.
@@ -11,29 +11,30 @@ The Quran, revered by Muslims as the literal word of God, is a central text in I
 
 The Quran explicitly claims to be the direct revelation from God, conveyed through the Prophet Muhammad. It presents itself as divine guidance for all of humanity, meant to be followed in every aspect of life.
 
-- **Surah 6:19**: "This Qur'an has been revealed to me so that I may warn you by it and whomever it reaches."
-- **Surah 53:4-5**: "It is nothing but a revelation revealed, taught to him by one mighty in power."
+{% include verse.html surah="6" ayah="19" %}
+{% include verse.html surah="53" ayah="4" %}
+{% include verse.html surah="53" ayah="5" %}
 
 ### Perfect Preservation
 
 One of the strongest claims the Quran makes is that it has been perfectly preserved from the moment of its revelation to the present day. This is a cornerstone of the Islamic belief in the Quran's authenticity and inerrancy.
 
-- **Surah 15:9**: "Indeed, it is We who sent down the Qur'an, and indeed, We will be its guardian."
-- **Surah 18:27**: "And recite what has been revealed to you of the Book of your Lord. None can change His words, and none will you find as a refuge other than Him."
+{% include verse.html surah="15" ayah="9" %}
+{% include verse.html surah="18" ayah="27" %}
 
 ### Infallibility
 
 The Quran asserts that it is free from error, and this infallibility is critical to its authority. The implication is that if any contradiction or error were found, it would invalidate its divine origin.
 
-- **Surah 4:82**: "Do they not reflect upon the Quran? If it had been from any other than Allah, they would have found within it much contradiction."
-- **Surah 41:42**: "Falsehood cannot approach it from before it or from behind it; it is a revelation from a Wise and Praiseworthy."
+{% include verse.html surah="4" ayah="82" %}
+{% include verse.html surah="41" ayah="42" %}
 
 ### Completeness
 
 Muslims believe that the Quran is a complete and final revelation, leaving no room for additions, subtractions, or changes. This completeness reinforces the idea that the text cannot be altered or corrected without undermining its divine origin.
 
-- **Surah 6:115**: "And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing."
-- **Surah 5:3**: "This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion."
+{% include verse.html surah="6" ayah="115" %}
+{% include verse.html surah="5" ayah="3" %}
 
 ## The Implication of Errors in the Quran
 
@@ -47,6 +48,14 @@ The Quran is built upon the premise that it is flawless. As seen in **Surah 4:82
 - If scientific inaccuracies or historical errors are identified, they would challenge the Quran's claim of being free from error.
 
 Thus, the claim is that the Quran must be wholly accurate and preserved, or it cannot be regarded as the infallible word of God.
+
+<ul>
+  {% for post in site.categories.quran-issues %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Conclusion
 

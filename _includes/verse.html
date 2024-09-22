@@ -1,0 +1,54 @@
+<div
+    class="quran-verse"
+    id="quran-verse-{{ include.surah }}-{{ include.ayah }}"
+>
+    <blockquote>
+        <p id="verse-text-{{ include.surah }}-{{ include.ayah }}">Loading...</p>
+        <footer>
+            <cite>
+                <a
+                    href="https://quran.com/{{ include.surah }}:{{ include.ayah }}"
+                    target="_blank"
+                >
+                    Surah {{ include.surah }}, Ayah {{ include.ayah }}
+                </a>
+            </cite>
+        </footer>
+    </blockquote>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const verseKey = "{{ include.surah }}:{{ include.ayah }}";
+        const apiUrl = `https://api.quran.com/api/v4/verses/by_key/${verseKey}?language=en&words=false&translations=131`;
+
+        console.log("Final API URL:", apiUrl);
+
+        // Delay fetching to ensure the element is fully rendered
+        setTimeout(() => {
+            fetch(apiUrl)
+                .then((response) => response.json())
+                .then((data) => {
+                    if (
+                        data.verse &&
+                        data.verse.translations &&
+                        data.verse.translations.length > 0
+                    ) {
+                        document.getElementById(
+                            "verse-text-{{ include.surah }}-{{ include.ayah }}",
+                        ).innerHTML = data.verse.translations[0].text;
+                    } else {
+                        document.getElementById(
+                            "verse-text-{{ include.surah }}-{{ include.ayah }}",
+                        ).innerHTML = "Translation not found.";
+                    }
+                })
+                .catch((error) => {
+                    console.error("Error fetching the Quran verse:", error);
+                    document.getElementById(
+                        "verse-text-{{ include.surah }}-{{ include.ayah }}",
+                    ).innerHTML = "Error loading verse.";
+                });
+        }, 250); // 500ms delay
+    });
+</script>
