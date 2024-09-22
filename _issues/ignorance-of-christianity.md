@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Ignorance of Christianity"
+categories: quran-issues
+---
+
+## Key Points
+
+1. The Quran does not mention core Christian and Jewish doctrines, many of which are essential to understanding these faiths.
+2. The Quran often misunderstands or misrepresents Christian beliefs, showing a lack of knowledge about Christianity.
+3. The Quran fails to acknowledge or even mention essential Christian teachings, harming the claim that the Quran is the final revelation from God and the culmination of previous scriptures.
+4. The Quran affirms that it continues and confirms previous scriptures, yet contains errors and inaccuracies about Christian and Jewish teachings.
+5. The Quran cannot be divinely inspired as it contains errors and inaccuracies about Christian and Jewish teachings.
+
+## Introduction
+
+Christianity claims to be the continuation of Judaism and its practices. From the beginning, the apostles, such as Saint Paul, preached and stressed that Christianity is the fulfillment of Jewish prophecies. The importance of continuity is paramount, as prior scriptures are seen as divine and predicting the coming of Jesus.
+
+The Quran, however, affirms that it is a continuation and confirmation of previous scriptures (e.g., Torah and Gospel), but does not acknowledge or even mention many core doctrines of Christianity and Judaism. This raises questions about its divine origin. This article will explore the Quran's apparent ignorance of Christianity and its implications for the Islamic claim of being the final revelation from God.
+
+## The Argument
+
+Presenting the argument in syllogistic form:
+
+1. **Premise 1**: A divinely inspired revelation would accurately reflect and build upon the essential teachings of previous divine scriptures (i.e., Judaism and Christianity), especially if it affirms the continuation of those scriptures.
+2. **Premise 2**: The Quran affirms that it continues and confirms previous scriptures, but it does not mention or accurately reflect core doctrines and essential teachings of Christianity and Judaism.
+3. **Conclusion**: Therefore, the Quran cannot be divinely inspired.
+
+## Background
+
+The Quran claims to be the final revelation from God after the Torah and the Bible. In multiple Surah and Hadiths, the inspiration and content of the Torah and the Bible is affirmed. However, the Quran sparsely mentions the actual content and doctrine of the prior scriptures and often misrepresents what those scriptures contain.
+
+### Major Christian/Jewish Doctrines Absent in the Quran
+
+| **Doctrine**                    | **Supporting Verses (Bible)**                          | **Significance**                                                                                             | **Reason Why Its Absence Matters**                                                                                                                                                      |
+|----------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **The Sacrifice and the Eucharist** | Matthew 26:26-28, 1 Corinthians 11:23-26            | The Eucharist commemorates Jesus’ sacrifice, seen as the central act of Christian worship and salvation.     | The absence overlooks the foundational Christian belief of Jesus’ atonement for sin and the sacramental practice that defines Christian worship across denominations.                        |
+| **Sacraments in General**        | Acts 2:38 (Baptism), John 20:23 (Confession), James 5:14 (Anointing) | Sacraments serve as outward signs of inward grace and are vital to the Christian life and salvation.         | Ignoring sacraments means disregarding essential rituals through which Christians believe they receive divine grace, such as baptism and communion, fundamental to Christian practice.      |
+| **Apostolic Succession/Priesthood**| 1 Timothy 4:14, Titus 1:5                           | Apostolic Succession ensures the continuity of the Church's authority, passed down through the bishops.       | Without mentioning or recognizing the priesthood and apostolic succession, the Quran disregards how the Church maintains doctrinal integrity and authority, which is central to its structure. |
+| **Creeds and Councils**          | Nicene Creed (based on John 1:1, Philippians 2:6-11) | Creeds define core Christian doctrines, such as the Trinity and the nature of Christ, affirmed by councils.   | The absence of any reference to these creeds or councils undermines the understanding of Christianity’s unified doctrinal foundation and historical theological development.                  |
+| **The Temple**                   | 1 Kings 8:10-11, Matthew 21:12-13                    | The Temple is central to Jewish worship and prophetic fulfillment, and in Christianity, Jesus is seen as the fulfillment of the Temple. | Not mentioning the Temple or its significance misses the crucial connection between Jewish worship, prophecy, and how Christianity interprets Jesus as fulfilling the Temple’s role.         |
+| **The Trinity**                  | Genesis 1:26, Isaiah 48:16, Matthew 28:19, John 1:1, 2 Corinthians 13:14 | The Trinity defines the Christian understanding of God as one Being in three persons: the Father, Son, and Holy Spirit. | [The Quran misrepresents](/issues/quran-trinity) the Trinity as Allah, Jesus, and Mary, misunderstanding the very nature of God. This leads to a fundamental error in its critique of Christian belief and doctrine. |
+
+These doctrines are fundamental to understanding Christianity and Judaism, yet the Quran either ignores or misrepresents them. This defeats the Quran's claim to be a continuation and confirmation of previous scriptures.
+
+### How the New Testament Builds on the Old Testament
+
+To highlight the discontinuity between the Quran and the Bible, consider how the New Testament (Christian Scripure) affirms and builds on the Old Testament (Jewish Scripture):
+
+1. **Fulfillment of Prophecies**: The New Testament shows how Jesus fulfills Old Testament prophecies, such as Isaiah 53 and Micah 5:2.
+2. **Continuity of Moral Law**: Jesus affirms the moral law of the Old Testament, such as the Ten Commandments, in the Sermon on the Mount.
+3. **Theological Development**: The New Testament expands on Jewish concepts, such as the Trinity, the Incarnation, and the Kingdom of God.
+4. **Historical Continuity**: The New Testament traces the genealogy of Jesus back to King David, connecting him to Jewish history.
+5. **Sacramental Continuity**: The New Testament establishes sacraments like baptism and the Eucharist, building on Jewish rituals.
+6. **Ecclesiastical Authority**: The Old Testament priesthood was started with Aaron, and the New Testament establishes the apostolic succession through the Holy Spirit at Pentecost. The priesthood was affirmed and continued in the Church.
+
+## Why This Matters
+
+The Quran lacks continuity with the prior scriptures it claims to confirm and continue. In addition, [what the Quran does say about Christian doctrine](/issues/quran-trinity) is often completely inaccurate. In contrast, the authors of the New Testament have a deep understanding of Jewish culture, scriptures, and doctrine and use their knowledge to defend Christianity in the text of the New Testament while affirming what came before.
+
+The author of the Quran pays lip service by affirming the prior revelation but remains completely ignorant about what that actually contains. Doctrines like the authority and structure of the church (which existed and was widespread at the time of Mohammed!) are completely absent from the Quran. Doctrines that are described in the first books of the Old Testament and have continuity throughout are not even mentioned in this "new revelation." The author of the Quran was not aware of these doctrines and misrepresented others because they lacked understanding of Christianity and Judaism.
+
+---
+
+*For further reading:*
+
+- [DEBATE: CHRISTIANITY OR ISLAM: WHICH IS THE RELIGION OF THE PROPHETS? JAY DYER VS DANIEL HAQIQATJOU](https://www.youtube.com/watch?v=5QqvCVN9PwI)

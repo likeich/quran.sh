@@ -2,7 +2,6 @@
 layout: post
 title: "Issue with the Quran: [Insert Specific Issue Here]"
 categories: quran-issues
-
 ---
 
 ## Key Points
