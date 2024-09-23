@@ -59,6 +59,8 @@ Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-t
 
 *Related Links:*
 
+{% include yt-video.html src="https://www.youtube.com/embed/s5n3zUssn98?si=lDi75-gMyM2IJbxZ" %}
+
 {% include yt-video.html src="https://www.youtube.com/embed/e1yBMFWmVHQ?si=be81kx-6locvbzHs" %}
 
 - [CARM - Did the author of the Quran understand the Trinity?](https://carm.org/islam/did-the-author-of-the-quran-understand-the-trinity/)
