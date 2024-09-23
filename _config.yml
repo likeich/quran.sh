@@ -27,3 +27,5 @@ collections:
     output: true
   science:
     output: true
+  science-errors:
+    output: true
