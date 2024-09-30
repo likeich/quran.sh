@@ -4,9 +4,9 @@
         content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
     />
 
-    <!-- Google tag (gtag.js) -->
+    <!-- Google tag (gtag.js) with defer -->
     <script
-        async
+        defer
         src="https://www.googletagmanager.com/gtag/js?id=G-W8RLVSTH8Y"
     ></script>
     <script>
@@ -15,7 +15,6 @@
             dataLayer.push(arguments);
         }
         gtag("js", new Date());
-
         gtag("config", "G-W8RLVSTH8Y");
     </script>
 
@@ -34,18 +33,24 @@
         }} {% else %} {{ page.title }} &middot; {{ site.title }} {% endif %}
     </title>
 
+    <!-- Preload Google Fonts -->
+    <link
+        rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+        as="style"
+        onload="this.rel='stylesheet'"
+    />
+    <link
+        rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+        as="style"
+        onload="this.rel='stylesheet'"
+    />
+
     <!-- CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css" />
     <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css" />
     <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css" />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
-        rel="stylesheet"
-    />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
-        rel="stylesheet"
-    />
 
     <!-- Icons -->
     <link
