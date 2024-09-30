@@ -1,33 +1,21 @@
 <head>
+    <!-- Meta Description for SEO -->
     <meta
         name="description"
         content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
     />
 
-    <!-- Google tag (gtag.js) with defer -->
-    <script
-        defer
-        src="https://www.googletagmanager.com/gtag/js?id=G-W8RLVSTH8Y"
-    ></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-        gtag("config", "G-W8RLVSTH8Y");
-    </script>
-
     <link href="https://gmpg.org/xfn/11" rel="profile" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-    <!-- Enable responsiveness on mobile devices-->
+    <!-- Enable responsiveness on mobile devices -->
     <meta
         name="viewport"
-        content="width=device-width, initial-scale=1.0, maximum-scale=1"
+        content="width=device-width, initial-scale=1.0, maximum-scale=5, user-scalable=yes"
     />
 
+    <!-- Page Title -->
     <title>
         {% if page.title == "Home" %} {{ site.title }} &middot; {{ site.tagline
         }} {% else %} {{ page.title }} &middot; {{ site.title }} {% endif %}
@@ -47,6 +35,30 @@
         onload="this.rel='stylesheet'"
     />
 
+    <!-- Fonts with Font Display Swap for faster text rendering -->
+    <style>
+        @font-face {
+            font-family: "Inter";
+            font-display: swap;
+        }
+        @font-face {
+            font-family: "Roboto";
+            font-display: swap;
+        }
+    </style>
+
+    <!-- Preload Critical CSS (Adjust file name/path if necessary) -->
+    <link
+        rel="preload"
+        href="{{ site.baseurl }}/public/css/poole.css"
+        as="style"
+    />
+    <link
+        rel="preload"
+        href="{{ site.baseurl }}/public/css/hyde.css"
+        as="style"
+    />
+
     <!-- CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css" />
     <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css" />
@@ -60,11 +72,25 @@
     />
     <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.svg" />
 
-    <!-- RSS -->
+    <!-- RSS Feed -->
     <link
         rel="alternate"
         type="application/rss+xml"
         title="RSS"
         href="/atom.xml"
     />
+
+    <!-- Google Tag Manager (async for better loading behavior) -->
+    <script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-W8RLVSTH8Y"
+    ></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-W8RLVSTH8Y");
+    </script>
 </head>
