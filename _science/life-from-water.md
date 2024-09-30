@@ -2,6 +2,10 @@
 layout: post
 title: "Life Originating from Water"
 categories: scientific-miracles
+related_links: |
+  - [Enuma Elish: Sumerian Mythology and the Cosmic Ocean](https://www.ancient.eu/Enuma_Elish/)
+  - [Nun: Egyptian Mythology's Primordial Waters](https://www.britannica.com/topic/Nun-Egyptian-god)
+  - [Greek Mythology: The Heavens and the Primordial Gods](https://www.greekmythology.com/Other_Gods/Primordial/primordial.html)
 ---
 
 ## Verse in Question
@@ -19,9 +23,3 @@ The claim that the Quran miraculously describes life as originating from water i
 The verse likely reflects observable knowledge of water's importance, particularly in desert cultures, rather than a unique scientific revelation. Ancient peoples understood that water was vital for survival, and many creation myths emphasized water as the source of life. Therefore, the Quran’s reference to water should be seen as part of this broader historical context, not a miraculous scientific insight.
 
 The interpretation linking this verse to modern biology, particularly the composition of cells, is selective and overlooks the more probable theological meaning of water as a source of sustenance.
-
-## Further Reading
-
-- [Enuma Elish: Sumerian Mythology and the Cosmic Ocean](https://www.ancient.eu/Enuma_Elish/)
-- [Nun: Egyptian Mythology's Primordial Waters](https://www.britannica.com/topic/Nun-Egyptian-god)
-- [Greek Mythology: The Heavens and the Primordial Gods](https://www.greekmythology.com/Other_Gods/Primordial/primordial.html)

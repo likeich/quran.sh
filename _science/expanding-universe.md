@@ -32,5 +32,3 @@ Scholars of Quranic interpretation have varied opinions on whether these verses 
 - **Tafsir Ibn Kathir:** Ibn Kathir, a classical Islamic scholar, interprets Surah 51:47 as a reference to Allah’s power in creating the vastness of the sky. He makes no mention of a scientific understanding of the expanding universe, emphasizing the majesty of creation instead.
 
 - **Mufti Muhammad Shafi (Ma’ariful Quran):** In his tafsir, Mufti Shafi also mentions the term "expanding" in a metaphorical sense, referring to the vastness of the skies, not a literal expansion of the universe as cosmologists understand it today.
-
-### Further Reading

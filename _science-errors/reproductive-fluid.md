@@ -2,6 +2,8 @@
 layout: post
 title: "Where Semen Comes From"
 categories: scientific-errors
+related_links: |
+  - [Semen Production in the Quran](https://wikiislam.net/wiki/Semen_Production_in_the_Quran)
 ---
 
 ### Verse in Question
@@ -37,9 +39,3 @@ The context verse, and the other verses discussing the fluid that man is created
 ### Describes Regular Circumstances Instead of Miracles? ✅
 
 The original creation of man from clay is considered a miracle that displays the power of Allah. Afterwards, the continued creation of man from a fluid is considered the normative and regular occurence.
-
----
-
-*Related:*
-
-- [Semen Production in the Quran](https://wikiislam.net/wiki/Semen_Production_in_the_Quran)

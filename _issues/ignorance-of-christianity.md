@@ -2,6 +2,11 @@
 layout: post
 title: "Ignorance of Christianity"
 categories: quran-issues
+youtube_links: ["https://www.youtube.com/embed/5QqvCVN9PwI?si=iEOt5AE0_gO6eS1c", "https://www.youtube.com/embed/jkmh68urI6A?si=d9Y893EvkJt1SvWT"]
+related_links: |
+  - [The Temple](https://orthochristian.com/135297.html)
+  - [The Sacrement of the Holy Eucharist](https://orthochristian.com/94688.html)
+  - [On The Eucharist](https://orthochristian.com/158573.html)
 ---
 
 ## Key Points
@@ -82,15 +87,3 @@ To highlight the discontinuity between the Quran and the Bible, consider how the
 The Quran lacks continuity with the prior scriptures it claims to confirm and continue. In addition, [what the Quran does say about Christian doctrine](/issues/quran-trinity) is often completely inaccurate. In contrast, the authors of the New Testament have a deep understanding of Jewish culture, scriptures, and doctrine and use their knowledge to defend Christianity in the text of the New Testament while affirming what came before.
 
 The author of the Quran pays lip service by affirming the prior revelation but remains completely ignorant about what that actually contains. Doctrines like the authority and structure of the church (which existed and was widespread at the time of Mohammed!) are completely absent from the Quran. Doctrines that are described in the first books of the Old Testament and have continuity throughout are not even mentioned in this "new revelation." The author of the Quran was not aware of these doctrines and misrepresented others because they lacked understanding of Christianity and Judaism.
-
----
-
-*Related Links:*
-
-{% include yt-video.html src="https://www.youtube.com/embed/5QqvCVN9PwI?si=iEOt5AE0_gO6eS1c" %}
-
-{% include yt-video.html src="https://www.youtube.com/embed/jkmh68urI6A?si=d9Y893EvkJt1SvWT" %}
-
-- [The Temple](https://orthochristian.com/135297.html)
-- [The Sacrement of the Holy Eucharist](https://orthochristian.com/94688.html)
-- [On The Eucharist](https://orthochristian.com/158573.html)
