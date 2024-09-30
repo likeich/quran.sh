@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h3>Verse in Question</h3>
+    {% include verse.html surah=page.surah ayah=page.ayah %}
+    <!-- <span class="post-date">{{ page.date | date_to_string }}</span> -->
+    {{ content }}
+    <h3>Clearly Contradicts Science? ✅</h3>
+    {{ page.contradicts | markdownify }}
+    <h3>Is it an Accurate Translation? ✅</h3>
+    {{ page.accuracy | markdownify }}
+    <h3>Does the Context Support a Literal Meaning? ✅</h3>
+    {{ page.literal | markdownify }}
+    <h3>Describes Regular Circumstances Instead of Miracles? ✅</h3>
+    {{ page.regularity | markdownify }}
+    <!-- <hr /> -->
+    {% include related-links.html %}
+</div>

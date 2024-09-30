@@ -8,9 +8,12 @@ permalink: pretty
 # Setup
 title: Quran.sh
 tagline: "A Jekyll theme"
-description: ""
+description: "Quran.sh is a website dedicated to exploring the truth of the Quran through in-depth analysis, discussion, and examination of its claims and teachings."
 url: "quran.sh"
 baseurl: ""
+default_links: |
+  - [Orthodox Shahada](https://www.youtube.com/@OrthodoxShahada)
+  - [Apostate Prophet](https://www.youtube.com/@ApostateProphet)
 
 author:
   name: "Mark Otto"

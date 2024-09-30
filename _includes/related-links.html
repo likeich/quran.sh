@@ -1,0 +1,9 @@
+<hr />
+<h2>Related Links</h2>
+{% for youtube_link in page.youtube_links %} {% include yt-video.html
+src=youtube_link %} {% endfor %}
+<!-- <h2>Related Links</h2> -->
+{{ page.related_links | markdownify }}
+<hr />
+<h3>Other Links</h3>
+{{ site.default_links | markdownify }}

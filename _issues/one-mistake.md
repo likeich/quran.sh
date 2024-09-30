@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "One Mistake Disproves Islam"
+description: "The Quran claims to be free from error, but any mistake would invalidate its divine origin."
 categories: quran-issues
 ---
 

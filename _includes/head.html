@@ -1,4 +1,9 @@
 <head>
+    <meta
+        name="description"
+        content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+    />
+
     <!-- Google tag (gtag.js) -->
     <script
         async

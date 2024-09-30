@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h3>Key Points</h3>
+    {{ page.tldr | markdownify }}
+    <h3>Introduction</h3>
+    {{ page.intro | markdownify }}
+    <h3>The Argument</h3>
+    {{ page.argument | markdownify }}
+
+    <!-- <span class="post-date">{{ page.date | date_to_string }}</span> -->
+    {{ content }}
+    <h3>Why It Matters</h3>
+    {{ page.significance | markdownify }}
+    <!-- <hr /> -->
+    {% include related-links.html %}
+</div>

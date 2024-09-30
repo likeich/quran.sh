@@ -6,11 +6,6 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <!-- <span class="post-date">{{ page.date | date_to_string }}</span> -->
     {{ content }}
-
-    <hr />
-    <h2>Related Links</h2>
-    {% for youtube_link in page.youtube_links %} {% include yt-video.html
-    src=youtube_link %} {% endfor %}
-    <!-- Adding space for readability -->
-    {{ page.related_links | markdownify }}
+    <!-- <hr /> -->
+    {% include related-links.html %}
 </div>

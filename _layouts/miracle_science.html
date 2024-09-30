@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h3>Verse in Question</h3>
+    {% include verse.html surah=page.surah ayah=page.ayah %}
+    <h3>The Claim</h3>
+    {{ page.claim | markdownify }}
+    <h3>Why This Claim Fails</h3>
+    {{ page.fails | markdownify }}
+    <h3>Scholar Opinions</h3>
+    {{ page.fails | markdownify }}
+    <!-- <span class="post-date">{{ page.date | date_to_string }}</span> -->
+    {{ content }}
+    <!-- <hr /> -->
+    {% include related-links.html %}
+</div>

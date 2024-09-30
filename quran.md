@@ -4,7 +4,7 @@ title: What is the Quran?
 priority: 1
 ---
 
-The Quran is the major religious text of Islam, which Muslims believe to be a revelation from God, delivered to the Prophet Muhammad over a period of approximately 23 years. It is written in classical Arabic and is regarded as the literal word of God (Allah) by Muslims. The Quran consists of 114 chapters, or surahs, which are further divided into verses, or ayahs. These surahs vary in length and cover various topics, including theology, morality, guidance for personal conduct, law, and narratives of earlier prophets.
+The Quran is the major religious text of Islam, which Muslims believe to be a revelation from God, delivered to the Prophet Muhammad over a period of approximately 23 years. It is written in classical Arabic and is regarded as the literal word of God (Allah) by Muslims. The Quran consists of 114 chapters, or surahs, which are further divided into verses, or ayat. These surahs vary in length and cover various topics, including theology, morality, guidance for personal conduct, law, and narratives of earlier prophets.
 
 The Quran is recited, memorized, and studied by millions of Muslims worldwide. Its recitation holds great significance in Muslim worship, especially during the month of Ramadan, when it is traditionally read in its entirety in special prayers called Tarawih. The Quran is also a source of legal and moral guidance, shaping the spiritual and ethical framework of Muslim communities.
 

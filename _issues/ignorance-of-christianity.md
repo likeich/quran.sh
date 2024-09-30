@@ -1,34 +1,33 @@
 ---
-layout: post
+layout: issues
 title: "Ignorance of Christianity"
-categories: quran-issues
+description: "The Quran's lack of knowledge about Christianity raises questions about its divine origin."
+tldr: |
+  1. The Quran does not mention core Christian and Jewish doctrines, many of which are essential to understanding these faiths.
+  2. The Quran often misunderstands or misrepresents Christian beliefs, showing a lack of knowledge about Christianity.
+  3. The Quran fails to acknowledge or even mention essential Christian teachings, harming the claim that the Quran is the final revelation from God and the culmination of previous scriptures.
+  4. The Quran cannot be divinely inspired as it contains errors and inaccuracies about Christian and Jewish teachings.
+intro: |
+  Christianity claims to be the continuation of Judaism and its practices. From the beginning, the apostles, such as Saint Paul, preached and stressed that Christianity is the fulfillment of Jewish prophecies. The importance of continuity is paramount, as prior scriptures are seen as divine and predicting the coming of Jesus.
+
+  The Quran, however, affirms that it is a continuation and confirmation of previous scriptures (e.g., Torah and Gospel), but does not acknowledge or even mention many core doctrines of Christianity and Judaism. This raises questions about its divine origin. This article will explore the Quran's apparent ignorance of Christianity and its implications for the Islamic claim of being the final revelation from God.
+argument: |
+  Presenting the argument in syllogistic form:
+
+  1. **Premise 1**: A divinely inspired revelation would accurately reflect and build upon the essential teachings of previous divine scriptures (i.e., Judaism and Christianity), especially if it affirms the continuation of those scriptures.
+  2. **Premise 2**: The Quran affirms that it continues and confirms previous scriptures, but it does not mention or accurately reflect core doctrines and essential teachings of Christianity and Judaism.
+  3. **Conclusion**: Therefore, the Quran cannot be divinely inspired.
+significance: |
+  The Quran lacks continuity with the prior scriptures it claims to confirm and continue. In addition, [what the Quran does say about Christian doctrine](/issues/quran-trinity) is often completely inaccurate. In contrast, the authors of the New Testament have a deep understanding of Jewish culture, scriptures, and doctrine and use their knowledge to defend Christianity in the text of the New Testament while affirming what came before.
+
+  The author of the Quran pays lip service by affirming the prior revelation but remains completely ignorant about what that actually contains. Doctrines like the authority and structure of the church (which existed and was widespread at the time of Mohammed!) are completely absent from the Quran. Doctrines that are described in the first books of the Old Testament and have continuity throughout are not even mentioned in this "new revelation." The author of the Quran was not aware of these doctrines and misrepresented others because they lacked understanding of Christianity and Judaism.
 youtube_links: ["https://www.youtube.com/embed/5QqvCVN9PwI?si=iEOt5AE0_gO6eS1c", "https://www.youtube.com/embed/jkmh68urI6A?si=d9Y893EvkJt1SvWT"]
 related_links: |
   - [The Temple](https://orthochristian.com/135297.html)
   - [The Sacrement of the Holy Eucharist](https://orthochristian.com/94688.html)
   - [On The Eucharist](https://orthochristian.com/158573.html)
+categories: quran-issues
 ---
-
-## Key Points
-
-1. The Quran does not mention core Christian and Jewish doctrines, many of which are essential to understanding these faiths.
-2. The Quran often misunderstands or misrepresents Christian beliefs, showing a lack of knowledge about Christianity.
-3. The Quran fails to acknowledge or even mention essential Christian teachings, harming the claim that the Quran is the final revelation from God and the culmination of previous scriptures.
-4. The Quran cannot be divinely inspired as it contains errors and inaccuracies about Christian and Jewish teachings.
-
-## Introduction
-
-Christianity claims to be the continuation of Judaism and its practices. From the beginning, the apostles, such as Saint Paul, preached and stressed that Christianity is the fulfillment of Jewish prophecies. The importance of continuity is paramount, as prior scriptures are seen as divine and predicting the coming of Jesus.
-
-The Quran, however, affirms that it is a continuation and confirmation of previous scriptures (e.g., Torah and Gospel), but does not acknowledge or even mention many core doctrines of Christianity and Judaism. This raises questions about its divine origin. This article will explore the Quran's apparent ignorance of Christianity and its implications for the Islamic claim of being the final revelation from God.
-
-## The Argument
-
-Presenting the argument in syllogistic form:
-
-1. **Premise 1**: A divinely inspired revelation would accurately reflect and build upon the essential teachings of previous divine scriptures (i.e., Judaism and Christianity), especially if it affirms the continuation of those scriptures.
-2. **Premise 2**: The Quran affirms that it continues and confirms previous scriptures, but it does not mention or accurately reflect core doctrines and essential teachings of Christianity and Judaism.
-3. **Conclusion**: Therefore, the Quran cannot be divinely inspired.
 
 ## Background
 
@@ -81,9 +80,3 @@ To highlight the discontinuity between the Quran and the Bible, consider how the
 4. **Historical Continuity**: The New Testament traces the genealogy of Jesus back to King David, connecting him to Jewish history.
 5. **Sacramental Continuity**: The New Testament establishes sacraments like baptism and the Eucharist, building on Jewish rituals.
 6. **Ecclesiastical Authority**: The Old Testament priesthood was started with Aaron, and the New Testament establishes the apostolic succession through the Holy Spirit at Pentecost. The priesthood was affirmed and continued in the Church.
-
-## Why This Matters
-
-The Quran lacks continuity with the prior scriptures it claims to confirm and continue. In addition, [what the Quran does say about Christian doctrine](/issues/quran-trinity) is often completely inaccurate. In contrast, the authors of the New Testament have a deep understanding of Jewish culture, scriptures, and doctrine and use their knowledge to defend Christianity in the text of the New Testament while affirming what came before.
-
-The author of the Quran pays lip service by affirming the prior revelation but remains completely ignorant about what that actually contains. Doctrines like the authority and structure of the church (which existed and was widespread at the time of Mohammed!) are completely absent from the Quran. Doctrines that are described in the first books of the Old Testament and have continuity throughout are not even mentioned in this "new revelation." The author of the Quran was not aware of these doctrines and misrepresented others because they lacked understanding of Christianity and Judaism.
