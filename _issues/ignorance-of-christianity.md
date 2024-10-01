@@ -35,10 +35,14 @@ The Quran claims to be the final revelation from God after the Torah and the Bib
 
 ### Major Christian/Jewish Doctrines Absent in the Quran
 
+{% include image.html src="/public/christ-shepherd.jpeg" title="The Lamb of God" width="200px" %}
+
 - **The Sacrifice and the Eucharist**
   - **Supporting Verses**: Matthew 26:26-28, 1 Corinthians 11:23-26
   - **Significance**: The Eucharist commemorates Jesus' sacrifice, seen as the central act of Christian worship and salvation.
   - **Reason Why Its Absence Matters**: The absence overlooks the foundational Christian belief of Jesus’ atonement for sin and the sacramental practice that defines Christian worship across denominations.
+
+{% include image.html src="https://miro.medium.com/v2/resize:fit:688/1*yOv8LSdf3i0fjY8qP9PlZQ.png" title="The Sacraments" width="400px" %}
 
 - **Sacraments in General**
   - **Supporting Verses**: Acts 2:38 (Baptism), John 20:23 (Confession), James 5:14 (Anointing)
