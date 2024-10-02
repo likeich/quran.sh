@@ -32,3 +32,5 @@ collections:
     output: true
   science-errors:
     output: true
+  quran:
+    output: true
