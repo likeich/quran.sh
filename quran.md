@@ -32,18 +32,19 @@ Muslims claim that the Quran is free from any errors or contradictions and that 
 {% include verse.html surah="4" ayah="82" %}
 {% include verse.html surah="41" ayah="42" %}
 
-### 4. Universal Guidance
+### 4. Clarity and Guidance
+The Quran claims that it is [clearly understood](/issues/clarity) and to be used as a guiding light to all.
+
+### 5. Universal Guidance
 The Quran is considered a comprehensive guide for all of humanity, not just for Muslims. Its teachings encompass every aspect of life, including personal behavior, family relations, social justice, and governance. The Quran emphasizes monotheism, the importance of righteous conduct, and accountability in the afterlife, and provides a framework for worship and spiritual growth.
 
-### 5. Scientific Knowledge
+### 6. Scientific Knowledge
 Some Muslims claim that the Quran contains knowledge of natural phenomena that was not known at the time of its revelation. These include descriptions of embryonic development, astronomy, and the water cycle, which modern science has only recently understood. This has led to the belief that the Quran is not only a spiritual guide but also contains scientific truths that validate its divine origin.
 
-### 6. Consistency with Previous Scriptures
+### 7. Consistency with Previous Scriptures
 Muslims believe that the Quran confirms and clarifies the messages brought by earlier prophets, such as Moses, David, and Jesus. It is considered the final and complete version of God's guidance, superseding previous scriptures, which Muslims believe were altered or misinterpreted over time.
 
 {% include verse.html surah="6" ayah="115" %}
 {% include verse.html surah="5" ayah="3" %}
 
 In conclusion, the Quran holds a central place in Islamic faith and practice. Its claims of divine origin, linguistic perfection, and timeless guidance shape the beliefs and actions of Muslims worldwide. The Quran's influence extends beyond religious practice to law, society, and culture, making it one of the most significant texts in human history.
-
-# References
