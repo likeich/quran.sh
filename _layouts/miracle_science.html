@@ -9,16 +9,7 @@ layout: default
     <h3>The Claim</h3>
     {{ page.claim | markdownify }}
     <a href="/quran/facts">How do we Prove a Scientific Miracle?</a>
-    <h3>Falsifiability</h3>
-    {{ page.f | markdownify }}
-    <h3>Accuracy</h3>
-    {{ page.a | markdownify }}
-    <h3>Context</h3>
-    {{ page.c | markdownify }}
-    <h3>Timeliness</h3>
-    {{ page.t | markdownify }}
-    <h3>Specificity</h3>
-    {{ page.s | markdownify }}
+    {% include overview_table.html %}
     <!-- <span class="post-date">{{ page.date | date_to_string }}</span> -->
     {{ content }}
     <!-- <hr /> -->

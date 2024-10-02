@@ -1,0 +1,26 @@
+<table>
+    <thead>
+        <tr>
+            <th>Criteria</th>
+            <th>Status</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for fact in page.facts %}
+        <tr>
+            <td>{{ fact.label | capitalize }}</td>
+            <td>
+                {% if fact.value == true %}
+                <span style="color: green">&#x2714;</span>
+                <!-- Green Check Mark -->
+                {% else %}
+                <span style="color: red">&#x2716;</span>
+                <!-- Red X Mark -->
+                {% endif %}
+            </td>
+            <td>{{ fact.description }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
