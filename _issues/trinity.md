@@ -63,4 +63,4 @@ Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-t
 
 ## Why it Matters
 
-[One Mistake in the Quran Refutes it]({{ site.baseurl }}/issues)
+[One Mistake in the Quran Refutes it](/issues/one-mistake/)
