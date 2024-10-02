@@ -51,10 +51,14 @@ The Quran claims to be the final revelation from God after the Torah and the Bib
   - **Significance**: Sacraments serve as outward signs of inward grace and are vital to the Christian life and salvation.
   - **Reason Why Its Absence Matters**: Ignoring sacraments means disregarding essential rituals through which Christians believe they receive divine grace, such as baptism and communion, fundamental to Christian practice.
 
+{% include image.html src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe_P1pWOiIJBVOBfVv4LXaA-k-syHxoGJxb0pbaUxAEbCY0ODOEVpaxVxRwcj-gxpqtuDfIUQTYprPg586Q5ysq-bA1iEHiTgIcJM68Krtstb3jkBgTlh5FAcQjmJXHk1528sSZVSkFb2A/s1600/05.jpg" title="The Sacraments" width="400px" %}
+
 - **Apostolic Succession/Priesthood**
   - **Supporting Verses**: 1 Timothy 4:14, Titus 1:5
   - **Significance**: Apostolic Succession ensures the continuity of the Church's authority, passed down through the bishops.
   - **Reason Why Its Absence Matters**: Without mentioning or recognizing the priesthood and apostolic succession, the Quran disregards how the Church maintains doctrinal integrity and authority, which is central to its structure.
+
+{% include image.html src="https://thesacredfaith.co.uk/uploads/nicaea-icon-greece.png" title="The Sacraments" width="400px" %}
 
 - **Creeds and Councils**
   - **Supporting Verses**: Nicene Creed (based on John 1:1, Philippians 2:6-11)
@@ -69,7 +73,7 @@ The Quran claims to be the final revelation from God after the Torah and the Bib
 - **The Trinity**
   - **Supporting Verses**: Genesis 1:26, Isaiah 48:16, Matthew 28:19, John 1:1, 2 Corinthians 13:14
   - **Significance**: The Trinity defines the Christian understanding of God as one Being in three persons: the Father, Son, and Holy Spirit.
-  - **Reason Why Its Absence Matters**: The Quran [misrepresents the Trinity](/issues/quran-trinity) as Allah, Jesus, and Mary, misunderstanding the very nature of God. This leads to a fundamental error in its critique of Christian belief and doctrine.
+  - **Reason Why Its Absence Matters**: The Quran [misrepresents the Trinity](/issues/trinity) as Allah, Jesus, and Mary, misunderstanding the very nature of God. This leads to a fundamental error in its critique of Christian belief and doctrine.
 
 These doctrines are fundamental to understanding Christianity and Judaism, yet the Quran either ignores or misrepresents them. This defeats the Quran's claim to be a continuation and confirmation of previous scriptures.
 
@@ -89,6 +93,6 @@ To highlight the discontinuity between the Quran and the Bible, consider how the
 
 ## Why it Matters
 
-The Quran lacks continuity with the prior scriptures it claims to confirm and continue. In addition, [what the Quran does say about Christian doctrine](/issues/quran-trinity) is often completely inaccurate. In contrast, the authors of the New Testament have a deep understanding of Jewish culture, scriptures, and doctrine and use their knowledge to defend Christianity in the text of the New Testament while affirming what came before.
+The Quran lacks continuity with the prior scriptures it claims to confirm and continue. In addition, [what the Quran does say about Christian doctrine](/issues/trinity) is often completely inaccurate. In contrast, the authors of the New Testament have a deep understanding of Jewish culture, scriptures, and doctrine and use their knowledge to defend Christianity in the text of the New Testament while affirming what came before.
 
 The author of the Quran pays lip service by affirming the prior revelation but remains completely ignorant about what that actually contains. Doctrines like the authority and structure of the church (which existed and was widespread at the time of Mohammed!) are completely absent from the Quran. Doctrines that are described in the first books of the Old Testament and have continuity throughout are not even mentioned in this "new revelation." The author of the Quran was not aware of these doctrines and misrepresented others because they lacked understanding of Christianity and Judaism.
