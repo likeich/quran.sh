@@ -49,6 +49,8 @@ Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-t
 
   - Muslims believe that Christians commit shirk (associating others with Allah) by believing that God is a Trinity of Father, Son, and Holy Spirit. 2 billion Christians today, in the mind of Muslims, are committing one of the worst sins possible by believing in the Trinity. It is illogical that Allah and Jesus at the end of time would be discussing a potentially non-existent group of heretical Christians in ancient Arabia while ignoring billions of Christians worldwide committing shirk to this day.
 
+  - When the Quran mentions groups within Christianity it uses language as "among the People of the Book" or "among them [the Christians]" (Surah 3:199, 3:113, and 2:62 all use this language). None of the verses attempting to describe the Trinity use these qualifiers, instead using language that refers to all Christians. Surah 4:171 specifically says "O People of the Book!" referring to all Christians before incorrectly describing their beliefs.
+
 ### *These verses do not describe the Trinity*
   - Muslims will cast doubt on the verses, saying that it does not describe the Trinity, and instead condemns idolatry. Surah 5:72-75 further strengthens the argument that the Quran is describing the Trinity as Allah, Jesus, and Mary by reiterating the claims of divinity. Surah 5:75 specifically refutes the belief that Jesus and Mary are Gods, saying that Mary was a 'woman of truth' and that both Jesus and Mary ate food. Surah 5:73 just before specifically refers to the Trinity, before going on to refute that Jesus and Mary are Gods. Surah 5, in multiple verses, describes the Trinity as Allah, Jesus, and Mary while specifically refuting that Jesus and Mary are not Gods.
 
