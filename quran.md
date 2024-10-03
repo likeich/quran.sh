@@ -8,11 +8,11 @@ The Quran is the major religious text of Islam, which Muslims believe to be a re
 
 The Quran is recited, memorized, and studied by millions of Muslims worldwide. Its recitation holds great significance in Muslim worship, especially during the month of Ramadan, when it is traditionally read in its entirety in special prayers called Tarawih. The Quran is also a source of legal and moral guidance, shaping the spiritual and ethical framework of Muslim communities.
 
-## Tafsir
+## Tafsir 💬
 
 Tafsir are human writings that explain and interpret the Quran by providing commentary on specific verses and subjects. Tafsir use various sources to interpret the Quran, including the Quran itself, Hadith, and historical context.
 
-## Hadith
+## Hadith 📚
 
 The Hadith are recorded sayings and actions from Mohammed and his followers. They are not considered divine revelation but are highly respected and used to understand the Quran.
 
