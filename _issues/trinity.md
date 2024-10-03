@@ -64,7 +64,7 @@ Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-t
   - As stated before, early commentaries on the Quran interpret these verses as describing the Trinity as Allah, Jesus, and Mary. Only modern Muslims reinterpret these verses to mean anything else.
 
 ### *The word 'Trinity' is actually never used*
-  - This is actually true! The word used in these verses is (ثلاثة) which means 'three'. However, multiple translations of the Quran translate it to 'Trinity' and the context of the verses make it clear that it is trying to refer to the Trinity.
+  - This is actually true! The word used in these verses is (ثلاثة) which means 'three'. However, multiple scholarly translations of the Quran translate it to 'Trinity' and the context of the verses make it clear that it is trying to refer to the Trinity.
 
   - The verses describe associating 2 others with Allah, making Allah 'one in three' along with 2 other Gods. The Quran also states that 'Allah is one God.' The context of every verse is attempting to rebuke Christian beliefs. To interpret this any other way instead of an attempt to describe the Trinity is laughable.
 
