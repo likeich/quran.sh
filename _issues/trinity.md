@@ -72,7 +72,8 @@ Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-t
     1. The context is about rebuking Christian beliefs.
     2. The rebuke is about associating others with Allah.
     3. The rebuke is about having 3 Gods, 2 equal to Allah.
-    4. This clearly is an attempted description of the Trinity.
+    4. Many scholarly translations translate the word to 'Trinity'.
+    5. This clearly is an attempted description of the Trinity.
 
 ## Why it Matters
 
