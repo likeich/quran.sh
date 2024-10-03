@@ -19,7 +19,7 @@ categories: quran-issues
 
 The Trinity is an essential and universal Christian doctrine which posits that God consists of three persons, the Father, the Son (Jesus), and the Holy Spirit, who are distinct yet co-equal and co-eternal. The Trinity is formalized as early as the Council of Nicaea in AD 325, 200 years prior to the life of Muhammed. The Quran describes the Trinity multiple times as the belief that Allah, Jesus, and Mary are Gods. This is an inaccurate description of the Christian belief of the Trinity.
 
-{% include image.html src="https://i0.wp.com/kuyperian.com/wp-content/uploads/2019/06/64635683_10161704531150251_2096094252634210304_n.png?w=1170" title="The Trinity" width="350px" %}
+{% include image.html src="/public/mon-trinity.png" title="The Trinity" width="400px" %}
 
 ## The Argument
 
