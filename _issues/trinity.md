@@ -56,10 +56,10 @@ Lastly, [multiple early commentaries](https://carm.org/islam/did-the-author-of-t
 
   - The Quran never correctly describes the Trinity as Father, Son, and Holy Spirit, and these verses are the only ones that mention the Trinity at all. This implies that the author of the Quran did not actually understand Christian beliefs.
 
-### *These verses do not describe the Trinity*
+### *These verses describe idolatry, not the Trinity*
   - Muslims will cast doubt on the verses, saying that it does not describe the Trinity, and instead condemns idolatry. Surah 5:72-75 further strengthens the argument that the Quran is describing the Trinity as Allah, Jesus, and Mary by reiterating the claims of divinity. Surah 5:75 specifically refutes the belief that Jesus and Mary are Gods, saying that Mary was a 'woman of truth' and that both Jesus and Mary ate food. Surah 5:73 just before specifically refers to the Trinity, before going on to refute that Jesus and Mary are Gods. Surah 5, in multiple verses, describes the Trinity as Allah, Jesus, and Mary while specifically refuting that Jesus and Mary are not Gods.
 
-  - Why would Allah choose a tiny, heretical group of Christians that have not existed for over a millenia as an example of shirk? The group he is condemning has not existed for the past 1300 years, if it ever existed at all. Why would Allah condemn this group's beliefs over the actual beliefs of 2 billion Christians worldwide? It is much more likely that the author of the Quran simply did not understand Christianity.
+  - Why would Allah choose a tiny, heretical group of Christians that have not existed for over a millenia as an example of shirk? The group he is condemning has not existed for the past 1300 years, if it ever existed at all. Why would Allah condemn this group's beliefs over the actual beliefs of 2 billion Christians worldwide? It is much more likely that the author of the Quran simply did not understand Christianity and had no clue what most Christians believed.
 
   - As stated before, early commentaries on the Quran interpret these verses as describing the Trinity as Allah, Jesus, and Mary. Only modern Muslims reinterpret these verses to mean anything else.
 
