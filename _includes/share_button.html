@@ -1,0 +1,25 @@
+<div class="share-container">
+    <button id="shareButton" class="btn-share">Share this article</button>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const shareButton = document.getElementById("shareButton");
+        if (navigator.share) {
+            shareButton.addEventListener("click", async () => {
+                try {
+                    await navigator.share({
+                        title: "{{ page.title }}",
+                        text: "{{ page.description }}",
+                        url: "{{ site.url }}{{ page.url }}",
+                    });
+                    console.log("Article shared successfully");
+                } catch (error) {
+                    console.error("Error sharing article:", error);
+                }
+            });
+        } else {
+            shareButton.style.display = "none"; // Hide the button if Web Share API is not supported
+        }
+    });
+</script>

@@ -101,6 +101,21 @@ html {
     height: 24px;
 }
 
+.btn-share {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: black;
+    background-color: #f9b84f;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-share:hover {
+    background-color: #1e1e1e;
+    color: white;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
     margin-bottom: 1rem;

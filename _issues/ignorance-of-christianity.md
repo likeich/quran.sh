@@ -10,12 +10,12 @@ related_links: |
 categories: quran-issues
 ---
 
-## Key Points
-
-1. The Quran does not mention core Christian and Jewish doctrines, many of which are essential to understanding these faiths.
-2. The Quran often misunderstands or misrepresents Christian beliefs, showing a lack of knowledge about Christianity.
-3. The Quran fails to acknowledge or even mention essential Christian teachings, harming the claim that the Quran is the final revelation from God and the culmination of previous scriptures.
-4. The Quran cannot be divinely inspired as it contains errors and inaccuracies about Christian and Jewish teachings.
+> ## Key Points
+>
+> 1. The Quran does not mention core Christian and Jewish doctrines, many of which are essential to understanding these faiths.
+> 2. The Quran often misunderstands or misrepresents Christian beliefs, showing a lack of knowledge about Christianity.
+> 3. The Quran fails to acknowledge or even mention essential Christian teachings, harming the claim that the Quran is the final revelation from God and the culmination of previous scriptures.
+> 4. The Quran cannot be divinely inspired as it contains errors and inaccuracies about Christian and Jewish teachings.
 
 ## Introduction
 

@@ -8,12 +8,12 @@ related_links: |
 categories: quran-issues
 ---
 
-## Key Points
-
-1. The Quran describes the Trinity as Allah, Jesus, and Mary, which is not the Christian belief.
-2. The Trinity is the essential doctrine of Christianity, and the Quran's misrepresentation of it is a significant error.
-3. The Quran does not, in a single instance, describe the Christian doctrine of the Trinity correctly as Father, Son, and Holy Spirit.
-4. Early commentaries on the Quran interpret these verses as describing the Trinity as Allah, Jesus, and Mary.
+> ## Key Points
+>
+> 1. The Quran describes the Trinity as Allah, Jesus, and Mary, which is not the Christian belief.
+> 2. The Trinity is the essential doctrine of Christianity, and the Quran's misrepresentation of it is a significant error.
+> 3. The Quran does not, in a single instance, describe the Christian doctrine of the Trinity correctly as Father, Son, and Holy Spirit.
+> 4. Early commentaries on the Quran interpret these verses as describing the Trinity as Allah, Jesus, and Mary.
 
 ## Introduction
 
