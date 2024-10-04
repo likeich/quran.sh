@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# Welcome 🎉
 
 The Quran is the main holy book of Islam, which Muslims believe to be a direct revelation from God.
 
@@ -14,14 +14,14 @@ Muslims assert that the Quran is:
 
 Quran.sh was created to explore these claims and others made about the Quran and to see if they hold up to scrutiny.
 
-## About the Quran
+## About the Quran 📖
 
 {% include article_list.html collection="quran" %}
 
-## Issues in the Quran
+## Issues in the Quran 🧐
 
 {% include article_list.html collection="issues" %}
 
-## On Scientific Miracles
+## On Scientific Miracles 🧪
 
 {% include article_list.html collection="science" %}
