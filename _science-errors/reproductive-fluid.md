@@ -2,6 +2,7 @@
 layout: incorrect_science
 title: "Where Semen Comes From"
 description: "Does the Quran claim that male reproductive fluid originates from between the backbone and the ribs?"
+refutation: "The Quran claims that semen comes from between the backbone and ribs. We know today that semen is produced in the testes, not in that area. All major translations of the verse reflect this error, and it’s meant to be taken literally. This clear contradiction with modern biology shows the Quran’s description of human reproduction is inaccurate."
 surah: 86
 ayah: 5-7
 contradicts: The Quran claims that semen originates from between the backbone and the ribs. This is a clear contradiction with modern science, which has shown that semen is produced in the testes.
