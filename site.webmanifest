@@ -1,19 +1,19 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Quran.sh",
+  "short_name": "Quran.sh",
   "icons": [
     {
-      "src": "/apple-touch-icon.png",
+      "src": "/assets/icons//apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/favicon.ico",
+      "src": "/assets/icons//favicon.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     },
     {
-      "src": "/apple-touch-icon-precomposed.png",
+      "src": "/assets/icons//apple-touch-icon-precomposed.png",
       "sizes": "144x144",
       "type": "image/png"
     },
