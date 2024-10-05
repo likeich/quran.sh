@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How do we Prove a Scientific Miracle?
+description: Muslims claim that the Quran contains scientific knowledge beyond human capacity. How can we determine if this is true?
 ---
 
 A scientific miracle is a claim that a religious holy book contains scientific facts that were impossible for the author to know when it was written down. To determine if a claim in the Quran, or any other religious text, constitutes a scientific miracle it is important to determine what criteria would prove its authenticity. This is important because, as science advances, it is easy to reinterpret verses to fit modern knowledge, while claiming it was a miracle all along.
