@@ -26,7 +26,7 @@ related_links: |
   - [Enuma Elish: Sumerian Mythology and the Cosmic Ocean](https://www.ancient.eu/Enuma_Elish/)
   - [Nun: Egyptian Mythology's Primordial Waters](https://www.britannica.com/topic/Nun-Egyptian-god)
   - [Greek Mythology: The Heavens and the Primordial Gods](https://www.greekmythology.com/Other_Gods/Primordial/primordial.html)
-categories: scientific-miracles
+categories: miracles
 ---
 
 These verses describe the creation of human beings from clay, which contradicts the claim that the Quran miraculously predicts the evolutionary process of life coming from the ocean.

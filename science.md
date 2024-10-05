@@ -10,10 +10,10 @@ Muslims often claim that the Quran contains scientific miracles that were unknow
 
 [How do we Prove a Scientific Miracle?](/quran/facts)
 
-{% include article_list.html collection="science" %}
+{% include article_list.html collection="miracles" %}
 
 ## Scientific Errors ⚠️
 
 The Quran contains numerous scientific errors, often reiterating an incorrect understanding of the world that was present at the time of Mohammed.
 
-{% include article_list.html collection="science-errors" %}
+{% include article_list.html collection="errors" %}

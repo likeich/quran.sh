@@ -24,8 +24,8 @@ Quran.sh was created to explore these claims and others made about the Quran and
 
 ## On Scientific Miracles 🧪
 
-{% include article_list.html collection="science" %}
+{% include article_list.html collection="miracles" %}
 
 ## Incorrect Science in the Quran 🧬
 
-{% include article_list.html collection="science-errors" %}
+{% include article_list.html collection="errors" %}

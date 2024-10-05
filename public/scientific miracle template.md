@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-categories: scientific-miracles
+categories: miracles
 ---
 
 ## Verse in Question

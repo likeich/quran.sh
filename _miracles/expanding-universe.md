@@ -22,5 +22,5 @@ facts:
   - label: "specificity"
     value: false
     description: "the verse is not specific and can be reinterpreted, as it was when science advanced and we discovered that the sky is not a roof"
-categories: scientific-miracles
+categories: miracles
 ---

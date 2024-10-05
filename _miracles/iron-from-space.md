@@ -22,7 +22,7 @@ facts:
   - label: "specificity"
     value: false
     description: "'Sent down' is not specified in the Quran as 'from space.' To claim this, Muslims must also accept that clothing, rain, and cattle are also literally from space."
-categories: scientific-miracles
+categories: miracles
 ---
 
 All of the verses below use the word "anzalnā" or "wa-anzalnā" (أَنزَلْنَا) which means "We sent down." This word is used in the Quran to describe a variety of things that God has sent down to Earth, including clothing, cattle, and rain. The word is not used to describe the origin of these things, but rather the act of providing them to humanity.

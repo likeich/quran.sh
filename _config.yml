@@ -28,9 +28,9 @@ github:
 collections:
   issues:
     output: true
-  science:
+  miracles:
     output: true
-  science-errors:
+  errors:
     output: true
   quran:
     output: true
