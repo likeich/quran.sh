@@ -2,6 +2,7 @@
 layout: miracle_science
 title: "Life Originating from Water"
 description: "Does the Quran predict that all living things are made from water?"
+refutation: "Surah 21:30 does not miraculåously predict the origin of life from water. The verse is too vague to be a miracle, and the interpretation that all living things are made from water is not entirely accurate. The importance of water for life was already well-known in ancient times, and many ancient cultures emphasized water as a source of life."
 surah: 21
 ayah: 30
 claim: Proponents of scientific miracles in the Quran argue that this verse predicts the origin of life from water. They claim that the phrase "We made every living thing from water" is a miraculous scientific insight into the composition of living organisms. This interpretation is used to suggest that the Quran contains advanced knowledge about biology and the origins of life.

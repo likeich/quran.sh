@@ -2,6 +2,7 @@
 layout: miracle_science
 title: "The Expanding Universe"
 description: "Does the Quran describe the expanding universe?"
+refutation: "Surah 51:47 does not refer to the expanding universe, historical interpretations show the verse originally referred to the sky as a vast roof upheld by Allah's power. The 'expansion' is metaphorical, not scientific, and the verse is not specific enough to be considered a scientific miracle."
 surah: 51
 ayah: 47
 claim: Proponents of scientific miracles in the Quran argue that this verse refers to the expanding universe. They claim that the Arabic word "musi'un" in this verse means "expanding" and that this description aligns with modern cosmological theories about the universe's expansion. This interpretation is used to suggest that the Quran contains advanced scientific knowledge about the cosmos.

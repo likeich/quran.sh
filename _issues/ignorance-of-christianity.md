@@ -2,6 +2,7 @@
 layout: issues
 title: "Ignorance of Christianity"
 description: "The Quran's lack of knowledge about Christianity raises questions about its divine origin."
+refutation: "The author of the Quran did not know what Christians believed, including the teachings of the Trinity, Temple, Priesthood, and others. When it does try to refute Christian beliefs, like the Trinity, it does not even represent them correctly. Orthodox Christianity emphasizes the continuity between Jewish and Christian tradition, while Islam asserts that every revelation for 4000 years has been corrupted, except theirs."
 youtube_links: ["https://www.youtube.com/embed/5QqvCVN9PwI?si=iEOt5AE0_gO6eS1c", "https://www.youtube.com/embed/jkmh68urI6A?si=d9Y893EvkJt1SvWT"]
 related_links: |
   - [The Temple](https://orthochristian.com/135297.html)
@@ -25,10 +26,8 @@ The Quran, however, affirms that it is a continuation and confirmation of previo
 
 ## The Argument
 
-Presenting the argument in syllogistic form:
-
-1. **Premise 1**: A divinely inspired revelation would accurately reflect and build upon the essential teachings of previous divine scriptures (i.e., Judaism and Christianity), especially if it affirms the continuation of those scriptures.
-2. **Premise 2**: The Quran affirms that it continues and confirms previous scriptures, but it does not mention or accurately reflect core doctrines and essential teachings of Christianity and Judaism.
+1. **Premise 1**: A divinely inspired revelation that claims to be the continuation and correction of previous scriptures would directly deal with the misunderstandings that lead to the need for a new revelation.
+2. **Premise 2**: The Quran fails to mention many core Christian doctrines whatsoever, and when it does, it often misrepresents them.
 3. **Conclusion**: Therefore, the Quran cannot be divinely inspired.
 
 ## Background

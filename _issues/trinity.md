@@ -2,6 +2,7 @@
 layout: issues
 title: "Misunderstanding the Trinity"
 description: "The Quran describes the Trinity as Allah, Jesus, and Mary, which is not the Christian belief."
+refutation: "The Quran describes the Trinity as Allah, Jesus, and Mary three times in the Quran since Allah had no idea what the Trinity actually was. There is no evidence in the Quran or Ahadith that Mohammed ever described the Trinity correctly either. It is understandable that Muslims struggle to understand the Trinity today, as their prophet and god definitely did not."
 youtube_links: ["https://www.youtube.com/embed/s5n3zUssn98?si=lDi75-gMyM2IJbxZ", "https://www.youtube.com/embed/e1yBMFWmVHQ?si=be81kx-6locvbzHs", "https://www.youtube.com/embed/X50WqTyFcfo?si=os9IGvHk9xs7lbF5"]
 related_links: |
   - [CARM - Did the author of the Quran understand the Trinity?](https://carm.org/islam/did-the-author-of-the-quran-understand-the-trinity/)

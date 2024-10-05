@@ -2,6 +2,7 @@
 layout: miracle_science
 title: "Iron Sent from Outer Space"
 description: "Does the Quran predict that iron was sent down from space?"
+refutation: "Surah 57:25 does not miraculously predict iron from meteorites. The language used in the verse refers to Allah's provision and charity. The same language is used to talk about clothing, cattle, and rain. Also, people at the time of Mohammed already knew about meteoritic iron, no miracle required."
 surah: 57
 ayah: 25
 claim: Proponents of scientific miracles in the Quran argue that this verse predicts the extraterrestrial origin of iron. They claim that the phrase "sent down" refers to iron being brought to Earth from space, specifically through meteorites. This interpretation is used to suggest that the Quran contains advanced scientific knowledge about the origins of materials on Earth.

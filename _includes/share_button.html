@@ -1,18 +1,30 @@
 <div class="share-container">
-    <button id="shareButton" class="btn-share">Share this article</button>
+    <!-- Share Button (shares the current article) -->
+    <button id="shareButton" class="btn-share">🚀 Share this Article</button>
+
+    <!-- Refutation Share Button (only appears if page.refutation exists) -->
+    {% if page.refutation %}
+    <button id="refutationButton" class="btn-share">
+        💣 Share the Argument
+    </button>
+    {% endif %}
 </div>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
+        // Share Article Button
         const shareButton = document.getElementById("shareButton");
+
         if (navigator.share) {
             shareButton.addEventListener("click", async () => {
                 try {
-                    await navigator.share({
-                        title: "{{ page.title }}",
-                        text: "{{ page.description }}",
-                        url: "{{ page.url }}",
-                    });
+                    const shareData = {
+                        title: "{{ page.title | escape }}",
+                        text: "{{ include.text | default: page.description | escape }}",
+                        url: "{{ page.url | absolute_url }}",
+                    };
+
+                    await navigator.share(shareData);
                     console.log("Article shared successfully");
                 } catch (error) {
                     console.error("Error sharing article:", error);
@@ -20,6 +32,26 @@
             });
         } else {
             shareButton.style.display = "none"; // Hide the button if Web Share API is not supported
+        }
+
+        // Refutation Share Button
+        const refutationButton = document.getElementById("refutationButton");
+
+        if (refutationButton) {
+            refutationButton.addEventListener("click", async () => {
+                try {
+                    const shareData = {
+                        title: "{{ page.title | escape }}",
+                        text: "{{ page.refutation | default: page.description | escape }}",
+                        url: "{{ page.url | absolute_url }}",
+                    };
+
+                    await navigator.share(shareData);
+                    console.log("Refutation shared successfully");
+                } catch (error) {
+                    console.error("Error sharing refutation:", error);
+                }
+            });
         }
     });
 </script>
