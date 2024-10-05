@@ -64,10 +64,14 @@ The Quran claims to be the final revelation from God after the Torah and the Bib
   - **Significance**: Creeds define core Christian doctrines, such as the Trinity and the nature of Christ, affirmed by councils.
   - **Reason Why Its Absence Matters**: The absence of any reference to these creeds or councils undermines the understanding of Christianity’s unified doctrinal foundation and historical theological development.
 
+{% include image.html src="https://womeninthebible.net/wp-content/uploads/2018/01/comparison_2temples.jpg" title="2/3 Temples" width="400px" %}
+
 - **The Temple**
   - **Supporting Verses**: 1 Kings 8:10-11, Matthew 21:12-13
   - **Significance**: The Temple is central to Jewish worship and prophetic fulfillment, and in Christianity, Jesus is seen as the fulfillment of the Temple.
   - **Reason Why Its Absence Matters**: Not mentioning the Temple or its significance misses the crucial connection between Jewish worship, prophecy, and how Christianity interprets Jesus as fulfilling the Temple’s role.
+
+{% include image.html src="/public/mon-trinity.png" title="The Trinity" width="400px" %}
 
 - **The Trinity**
   - **Supporting Verses**: Genesis 1:26, Isaiah 48:16, Matthew 28:19, John 1:1, 2 Corinthians 13:14
