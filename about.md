@@ -6,7 +6,7 @@ priority: 10
 
 **Quran.sh** is a platform dedicated to the critical examination of the Quran, focusing on its claims, contradictions, and various issues raised by its text. We present articles that explore these topics, providing readers with a structured look at the Quran’s contents.
 
-### 🎯 Our Mission
+### Our Mission 🎯
 
 At Quran.sh, our goal is to offer well-researched articles that:
 
@@ -18,7 +18,7 @@ This website is a resource for those who seek to explore the Quran from a critic
 
 ---
 
-### 🔍 Explore Further
+### Explore Further 🔍
 
 - [☦️ Find a Church Near You](https://www.google.com/maps/search/eastern+orthodox+church)
 
@@ -26,7 +26,7 @@ This website is a resource for those who seek to explore the Quran from a critic
 
 ---
 
-### 🛠️ Technology Stack
+### Technology Stack 🛠️
 
 Quran.sh is built using [Hyde](https://hyde.getpoole.com/), a modern and minimal Jekyll theme.
 For more details, visit [Hyde](https://hyde.getpoole.com/).
