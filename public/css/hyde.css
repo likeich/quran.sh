@@ -29,6 +29,16 @@
  * Update the foundational and global aspects of the page.
  */
 
+:root {
+    --dark-bg: #2a2a2a;
+    --dark-sidebar-bg: #1e1e1e;
+    --text-white: #ffffff;
+    --text-gray-light: #e0e0e0;
+    --link-color: #f9b84f;
+    --accent-color: #f4665c;
+    --shadow-color: whitesmoke;
+}
+
 html {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
@@ -105,15 +115,18 @@ html {
     padding: 10px 20px;
     font-size: 16px;
     color: black;
-    background-color: #f9b84f;
+    background-color: var(--link-color);
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    transition:
+        background-color 0.3s ease,
+        transform 0.3s ease;
 }
 
 .btn-share:hover {
-    background-color: #1e1e1e;
-    color: white;
+    background-color: var(--accent-color);
+    transform: scale(1.05); /* Use transform for scaling */
 }
 
 /* Sidebar nav */
@@ -208,13 +221,20 @@ a.sidebar-nav-item:focus {
 
 /* Dark Background and Red Accent */
 .theme-base-dark {
-    background-color: #2a2a2a;
+    background-color: var(--dark-bg);
 }
-.theme-base-dark .sidebar {
-    background-color: #1e1e1e; /* Dark gray for the sidebar background */
+
+.theme-base-dark .sidebar,
+.theme-base-dark .message,
+.theme-base-dark blockquote,
+.theme-base-dark tbody tr:nth-child(odd) td,
+.theme-base-dark tbody tr:nth-child(odd) th {
+    background-color: var(--dark-sidebar-bg);
 }
-.theme-base-dark .message {
-    background-color: #1e1e1e; /* Dark gray for the sidebar background */
+
+.theme-base-dark .message,
+.theme-base-dark blockquote,
+.shadow-style {
     border-radius: 8px;
 }
 
@@ -222,50 +242,38 @@ a.sidebar-nav-item:focus {
 .theme-base-dark .content h2,
 .theme-base-dark .content h3,
 .theme-base-dark .content strong {
-    color: #ffffff;
+    color: var(--text-white);
 }
 
 .theme-base-dark .content p,
 .theme-base-dark .content li,
 .theme-base-dark .content th,
 .theme-base-dark .content dd,
-.theme-base-dark .content dt {
-    color: #e0e0e0;
-}
-
-.theme-base-dark blockquote {
-    background-color: #1e1e1e;
-    border-radius: 8px;
+.theme-base-dark .content dt,
+.theme-base-dark tbody tr:nth-child(odd) td,
+.theme-base-dark tbody tr:nth-child(odd) th,
+.theme-base-dark tbody tr:nth-child(even) td,
+.theme-base-dark tbody tr:nth-child(even) th {
+    color: var(--text-gray-light);
 }
 
 .theme-base-dark .content a,
 .theme-base-dark .related-posts li a:hover {
-    color: #f9b84f; /* Link Color */
+    color: var(--link-color);
+}
+
+.theme-base-dark tbody tr:nth-child(even) td,
+.theme-base-dark tbody tr:nth-child(even) th {
+    background-color: var(--dark-bg);
 }
 
 .shadow-style {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0px 0px 10px 2px whitesmoke;
-    object-fit: cover;
+    box-shadow: 0px 0px 10px 2px var(--shadow-color);
 }
 
 .shadow-style img {
     object-fit: cover;
     aspect-ratio: unset;
-}
-
-.theme-base-dark tbody tr:nth-child(odd) td,
-.theme-base-dark tbody tr:nth-child(odd) th {
-    background-color: #1e1e1e;
-    color: #e0e0e0;
-}
-
-.theme-base-dark tbody tr:nth-child(even) td,
-.theme-base-dark tbody tr:nth-child(even) th {
-    background-color: #2a2a2a;
-    color: #e0e0e0;
 }
 
 /* Red */
