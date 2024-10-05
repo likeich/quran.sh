@@ -9,7 +9,7 @@ permalink: pretty
 title: Quran.sh
 tagline: "Truth, History, and Interpretation"
 description: "Quran.sh is a website dedicated to exploring the truth of the Quran through in-depth analysis, discussion, and examination of its claims and teachings."
-url: "quran.sh"
+url: "https://quran.sh"
 baseurl: ""
 default_links: |
   - [Orthodox Shahada](https://www.youtube.com/@OrthodoxShahada)
