@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: How do we Prove a Scientific Miracle?
 ---
 
